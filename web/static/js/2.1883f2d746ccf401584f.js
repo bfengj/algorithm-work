@@ -1,0 +1,2 @@
+webpackJsonp([2],{"U/Nz":function(e,t){},"s6+2":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("MarkdownReader",{attrs:{url:this.url}})],1)},staticRenderFns:[]};var a=n("C7Lr")({name:"Main",data:function(){return{url:"readme"}},methods:{}},r,!1,function(e){n("U/Nz")},null,null);t.default=a.exports}});
+//# sourceMappingURL=2.1883f2d746ccf401584f.js.map
